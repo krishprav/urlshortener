@@ -1,0 +1,27 @@
+|-- eslint.config.js
+|-- index.html
+|-- public
+    |-- vite.svg
+|-- README.md
+|-- src
+    |-- App.css
+    |-- App.tsx
+    |-- assets
+        |-- react.svg
+    |-- index.css
+    |-- main.tsx
+    |-- vite-env.d.ts
+    |-- components
+        |-- MacOSWindow.tsx
+        |-- ResultDisplay.tsx
+        |-- InfoPopup.tsx
+        |-- UrlShortener.tsx
+        |-- InteractiveStars.tsx
+        |-- InteractiveStars.module.css
+|-- tsconfig.app.json
+|-- tsconfig.json
+|-- tsconfig.node.json
+|-- vite.config.ts
+|-- .gitignore
+|-- package.json
+|-- package-lock.json
